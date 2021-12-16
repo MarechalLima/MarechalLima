@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarechalLima&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarechalLima&layout=compact&theme=dracula" width="290">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rwnicholas&show_icons=true&count_private=true&theme=dracula" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwnicholas&layout=compact&theme=dracula" width="290">
 </p>
 
 ---
