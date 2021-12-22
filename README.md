@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/nicholas-lima-de-souza-silva-707958137/">
+  <a href="https://www.linkedin.com/in/rwnicholas394/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
 </p>
